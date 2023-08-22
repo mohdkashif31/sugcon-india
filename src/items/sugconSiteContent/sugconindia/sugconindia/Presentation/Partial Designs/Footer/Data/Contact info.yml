@@ -25,19 +25,14 @@ Languages:
         sitecore\Mohd Kashif
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: |
-        <span id="docs-internal-guid-7ad7f9d6-7fff-281f-d1e1-3575add84e48"></span>
-        <p><span>info@Skatepark.com</span></p>
-        <p><span>234-234-234-234</span></p>
-        <div><span><br />
-        </span></div>
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "763b146c-6463-4116-8e7c-4b4d4c1ecae5"
+      Value: "f01199ad-0ca6-4236-a5d4-6e1aade79ed4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Mohd Kashif
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T092729Z
+      Value: 20230822T121853Z

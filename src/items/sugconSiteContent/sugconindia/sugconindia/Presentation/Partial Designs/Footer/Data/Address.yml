@@ -25,21 +25,14 @@ Languages:
         sitecore\Mohd Kashif
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: |
-        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
-        <p><span>Skate Park</span></p>
-        <p><span>12 Forever Street</span></p>
-        <p><span>A99 B44</span></p>
-        <p><span>The Nation of Skate</span></p>
-        <p><span>Made by <a href="https://www.sitecore.com/">Sitecore</a></span></p>
-        <div><span><br /></span></div>
+      Value: © Copyright 2023, Sitecore User Group Conference
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0fca94c-e73f-4179-b5ef-7cf0960328de"
+      Value: "51bf76fc-7526-4704-ad40-25cb104bf063"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Mohd Kashif
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T092729Z
+      Value: 20230822T121831Z

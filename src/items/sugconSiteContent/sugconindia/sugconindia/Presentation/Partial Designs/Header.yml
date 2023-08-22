@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4E81F54F-C720-474F-BCB6-623E944EE5D1}" />
+    <image mediaid="{F013BCE2-2091-4F1C-8BCD-E93566CDF575}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -54,11 +54,11 @@ Languages:
         sitecore\Mohd Kashif
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "906d57b6-c496-4f93-9b05-a07dfc63f04d"
+      Value: "511b8b7c-3f21-4e3f-a6f4-fd4ecd36fd43"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mohd.kashif@assurex.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T111329Z
+      Value: 20230822T122211Z

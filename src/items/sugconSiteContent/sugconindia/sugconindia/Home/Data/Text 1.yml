@@ -12,6 +12,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230822T092732Z
@@ -25,14 +28,15 @@ Languages:
         sitecore\Mohd Kashif
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <h4>Providing wholesale product basics to the best skate brands</h4>
+      Value: |
+        <h2 class="rte-align-center">An event from the community<br />for the community.</h2><h4><br /></h4>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9caecd11-5e33-4e56-b05b-5b3b93636597"
+      Value: "80f9d5ab-eb8f-4216-a31a-f88f27f862db"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Mohd Kashif
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T092732Z
+      Value: 20230822T120625Z

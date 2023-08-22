@@ -12,14 +12,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230822T092732Z
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
       Value: |
-        <h3>Latest Products</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
+        <h3>Contact Organizers</h3><h3><span style="color: rgb(112, 112, 112);">Email: enquiries@sugcon.events</span></h3>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -30,15 +32,15 @@ Languages:
         sitecore\Mohd Kashif
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5a14f9f-3335-4e69-8e66-5a3b990d2e47"
+      Value: "4b29e3d8-3f8d-4945-94a6-a8dbb37b896f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Mohd Kashif
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T092732Z
+      Value: 20230822T121628Z
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{7DC4262C-8DF4-4A34-9D65-ACD13F695168}" />
+        <image mediaid="a864a421-c2f8-4003-bc09-92aaeafdbe13" />
