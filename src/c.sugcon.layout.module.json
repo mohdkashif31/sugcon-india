@@ -1,0 +1,18 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Sugcon.Layout", 
+    "items": {
+        "includes": [
+            {
+                "name": "rendering",
+                "path": "/sitecore/layout/Renderings/Project",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "PlaceholderSettings",
+                "path": "/sitecore/layout/Placeholder Settings/Project/sugconindia",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Sugcon.Content", 
+    "items": {
+        "includes": [
+			{
+                "name": "sugconSiteContent",
+                "path": "/sitecore/content/sugconindia",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

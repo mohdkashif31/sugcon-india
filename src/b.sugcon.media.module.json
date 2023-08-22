@@ -1,0 +1,13 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Sugcon.MediaLibrary", 
+    "items": {
+        "includes": [
+            {
+                "name": "sugconMediaLibrary",
+                "path": "/sitecore/media library/Project/sugconindia",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+﻿---
+ID: "b38a43b8-9eae-48a5-ae01-26898da8e967"
+Parent: "33d3d43e-ea04-4c75-b77b-b98e5e648b14"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/sugconindia/sugconindia/Presentation/Partial Designs/Footer
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{6A305645-AAB1-4CE5-BFFB-24B5ECCC2AF5}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b085997D0-7FB1-4523-9275-CD0C84DDDC62%7d%7c%7bFE4F6AEA-31E0-4535-9174-26945B37723C%7d%7c%7bC7A0D693-2C6E-49B9-BF9F-AA2C24014E63%7d%7c%7bF165F978-9837-4E70-B62A-24800A1A643D%7d%7c%7bCF1884FB-FA51-47FB-8A76-03DF9E584865%7d%7c%7bA7B155D8-9E9D-4EC8-984B-69172AD0E5B3%7d%7c%7b0C42D01C-1FB0-4979-A019-F8F0C511CDE7%7d%7c%7b6D2FED49-C3C2-441B-8899-33CBA7DFF698%7d%7c%7b1404F7AD-9F93-4127-AA3D-38C1E995DEBD%7d%7c%7bCF87508E-A3B9-42D8-98AA-67A854CC6444%7d%7c%7b65EF2213-4076-4385-A938-8EA12E908ED4%7d%7c%7b3B04EA6D-1FEE-4A6C-A019-F9BBBEB1B3A4%7d%7c%7b1A3B8381-1CF7-48B3-BE0B-9B840ECA5C46%7d%7c%7b65721189-4D83-4EC7-85AD-6A4E4AF9F554%7d%7c%7b1237E6EB-198D-401A-8D28-061871EE300A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{CD2E680E-ED64-49F3-9E0A-F54ABE006BF4}"
+          p:after="r[@uid='{6A305645-AAB1-4CE5-BFFB-24B5ECCC2AF5}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b1C28CE97-1F85-4D9F-9FD4-013946991C1C%7d&amp;FieldNames=%7b8678C8FB-45D2-4834-BB74-A22A8C0EF4CB%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{D9ED8BCC-11E2-4441-BDA9-ED8AFC3921DF}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b1C28CE97-1F85-4D9F-9FD4-013946991C1C%7d&amp;FieldNames=%7b8678C8FB-45D2-4834-BB74-A22A8C0EF4CB%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230822T092729Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Mohd Kashif
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Mohd Kashif
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24665d63-73c2-4262-8284-e99486be2396"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mohd.kashif@assurex.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230822T111327Z
