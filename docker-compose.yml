@@ -99,9 +99,9 @@ services:
       Sitecore_AppSettings_Telerik.AsyncUpload.ConfigurationEncryptionKey: ${TELERIK_ENCRYPTION_KEY}
       Sitecore_AppSettings_Telerik.Upload.ConfigurationHashKey: ${TELERIK_ENCRYPTION_KEY}
       Sitecore_AppSettings_Telerik.Web.UI.DialogParametersEncryptionKey: ${TELERIK_ENCRYPTION_KEY}
-      Sitecore_ConnectionStrings_DAM.ContentHub: ClientId={CLIENT_ID};ClientSecret={CLIENTSECRET};UserName={USERNAME};Password={PASSWORD};URI={URI}
-      Sitecore_ConnectionStrings_DAM.SearchPage: {CONTENTHUBSEARCHPAGEURI}
-      Sitecore_ConnectionStrings_DAM.ExternalRedirectKey: {EXTERNALREDIRECTKEY}
+      Sitecore_ConnectionStrings_DAM.ContentHub: ClientId=Client_id;ClientSecret=Client_secret;UserName=SitecoreXMClouduser;Password=XMclouduser!2;URI=https://unep.sitecoresandbox.cloud
+      Sitecore_ConnectionStrings_DAM.SearchPage: https://unep.sitecoresandbox.cloud/en-us/sitecore-dam-connect/approved-assets
+      Sitecore_ConnectionStrings_DAM.ExternalRedirectKey: Sitecore
       # Sitecore_License: ${SITECORE_LICENSE}
       SOLR_CORE_PREFIX_NAME: ${SOLR_CORE_PREFIX_NAME}
       MEDIA_REQUEST_PROTECTION_SHARED_SECRET: ${MEDIA_REQUEST_PROTECTION_SHARED_SECRET}

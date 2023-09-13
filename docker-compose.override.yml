@@ -84,8 +84,8 @@ services:
       ## Development Environment Optimizations
       SITECORE_DEVELOPMENT_PATCHES: DevEnvOn,CustomErrorsOff,DebugOn,DiagnosticsOff,InitMessagesOff
       Sitecore_AppSettings_exmEnabled:define: "no" # remove to turn on EXM
-      Sitecore_ConnectionStrings_DAM_dot_ContentHub: "https://unep.sitecoresandbox.cloud/"
-      Sitecore_ConnectionStrings_DAM_dot_SearchPage:"https://unep.sitecoresandbox.cloud/en-us/sitecore-dam-connect/approved-assets"
+      Sitecore_ConnectionStrings_DAM_dot_ContentHub: "https://unep.sitecoresandbox.cloud"
+      Sitecore_ConnectionStrings_DAM_dot_SearchPage: "https://unep.sitecoresandbox.cloud/en-us/sitecore-dam-connect/approved-assets"
       Sitecore_ConnectionStrings_DAM_dot_ExternalRedirectKey: Sitecore
       SITECORE_AppSettings_damEnabled__define: Yes
     entrypoint: powershell -Command "& C:/tools/entrypoints/iis/Development.ps1"
